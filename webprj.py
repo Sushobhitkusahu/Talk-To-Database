@@ -12,9 +12,9 @@ import os
 load_dotenv()
 
 # Configuration from environment variables
-GOOGLE_API_KEY = "AIzaSyACNgd9yX_yc9z0pC3y5CTSDGMQgAdqZX4"
+GOOGLE_API_KEY = "Your API Key Here"
 db_user = "root"
-db_password = "1234"
+db_password = "your db password"
 db_host = "localhost:3306"
 db_name = "atliq_tshirts"
 
