@@ -34,7 +34,7 @@ The system is intelligent enough to generate accurate queries for given question
 ## Usage
 
 1. Run the Streamlit app by executing:
-streamlit run main.py
+streamlit run webprj.py
 
 2.The web app will open in your browser where you can ask questions
 
