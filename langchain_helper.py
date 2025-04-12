@@ -10,9 +10,9 @@ import os
 
 # Load environment variables
 load_dotenv()
-#"AIzaSyDTAXKiV33j1Y1b3QuHg-FFWsBYPRVjD2A" OLD API KEY
+
 # Configuration from environment variables
-GOOGLE_API_KEY = "AIzaSyCZ-6MFCN-S0UGRhIRmAVzja2x-gMCTUnk"
+GOOGLE_API_KEY = "Your API Key"
 db_user = "root"
 db_password = "1234"
 db_host = "localhost:3306"
