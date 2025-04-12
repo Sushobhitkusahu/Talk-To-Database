@@ -46,8 +46,7 @@ streamlit run main.py
   
 ## Project Structure
 
-- main.py: The main Streamlit application script.
-- langchain_helper.py: This has all the langchain code
+- webprj.py: The main Streamlit application script and  has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - few_shots.py: Contains few shot prompts
 - .env: Configuration file for storing your Google API key.
