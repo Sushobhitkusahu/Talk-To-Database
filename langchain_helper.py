@@ -14,7 +14,7 @@ load_dotenv()
 # Configuration from environment variables
 GOOGLE_API_KEY = "Your API Key"
 db_user = "root"
-db_password = "1234"
+db_password = "your db password"
 db_host = "localhost:3306"
 db_name = "atliq_tshirts"
 
