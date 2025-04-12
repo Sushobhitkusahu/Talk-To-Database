@@ -25,8 +25,10 @@ The system is intelligent enough to generate accurate queries for given question
 ## Installation
 
 1  pip install -r requirements.txt
+
 2.Acquire an api key through makersuite.google.com and put it in .env file
   GOOGLE_API_KEY="your_api_key_here"
+  
 3. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
 
 ## Usage
